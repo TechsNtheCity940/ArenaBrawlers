@@ -1,0 +1,13 @@
+{
+  "name": "arena-brawler-online-prototype-server",
+  "version": "1.0.0",
+  "description": "Server-authoritative multiplayer arena brawler prototype",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
